@@ -20,10 +20,10 @@ This project implements a movie recommender system using Item-based Collaborativ
 
  
 ## Item-based Collaborative Filtering
-1.Created a user-item matrix.
-2.Calculated movie correlations using Pearson correlation coefficient.
-3.Utilized user's ratings to recommend similar movies.
-4. Created a Streamlit Web application to get the output
+1. Created a user-item matrix. <br>
+2. Calculated movie correlations using Pearson correlation coefficient. <br>
+3. Utilized user's ratings to recommend similar movies. <br>
+4. Created a Streamlit Web application to get the output <br>
 
 ## Usage
 Input your own movie ratings in the My_Ratings.csv file.
