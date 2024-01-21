@@ -18,9 +18,6 @@ This project implements a movie recommender system using Item-based Collaborativ
 2. `u.data`: Movie ratings dataset
 3. `My_Ratings.csv`: Your own movie ratings dataset
 
-## How to Run
-1. Install the required dependencies using:
-   ```bash
  
 ## Item-based Collaborative Filtering
 1.Created a user-item matrix.
